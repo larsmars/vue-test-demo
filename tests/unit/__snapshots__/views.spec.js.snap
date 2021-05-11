@@ -1,5 +1,12 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`Snapshot views Snapshot: About view 1`] = `
+<div class="about">
+  <h1>This is an about page</h1>
+  <hello-world-stub></hello-world-stub>
+</div>
+`;
+
 exports[`Snapshot views Snapshot: Home view 1`] = `
 <div class="container">
   <div class="row text-center">

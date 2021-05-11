@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Jest Unit tests" tests="2" failures="0" errors="0" time="11.647">
-  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2021-05-09T09:32:13" time="1.4" tests="1">
-    <testcase classname=" Test DivideAndConquer" name=" Test DivideAndConquer" time="0.003">
+<testsuites name="Jest Unit tests" tests="3" failures="0" errors="0" time="4.167">
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2021-05-10T05:38:35" time="0.889" tests="1">
+    <testcase classname=" Test DivideAndConquer" name=" Test DivideAndConquer" time="0.002">
     </testcase>
   </testsuite>
-  <testsuite name="Snapshot views" errors="0" failures="0" skipped="0" timestamp="2021-05-09T09:32:13" time="2.035" tests="1">
-    <testcase classname="Snapshot views Snapshot: Home view" name="Snapshot views Snapshot: Home view" time="0.079">
+  <testsuite name="Snapshot views" errors="0" failures="0" skipped="0" timestamp="2021-05-10T05:38:35" time="1.157" tests="2">
+    <testcase classname="Snapshot views Snapshot: Home view" name="Snapshot views Snapshot: Home view" time="0.051">
+    </testcase>
+    <testcase classname="Snapshot views Snapshot: About view" name="Snapshot views Snapshot: About view" time="0.004">
     </testcase>
   </testsuite>
 </testsuites>

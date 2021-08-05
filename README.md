@@ -1,5 +1,7 @@
 # vue-test-demo
 
+Demo code for the "Vue and Jest" talk 2021
+
 ## Project setup
 ```
 yarn install
